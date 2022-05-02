@@ -19,9 +19,6 @@
      <CLS_TYGR_ELEMENT>
       <TYPE>INTF</TYPE>
      </CLS_TYGR_ELEMENT>
-     <CLS_TYGR_ELEMENT>
-      <TYPE>Z_AG_TEST_OBJECT_GROUP_CHILD</TYPE>
-     </CLS_TYGR_ELEMENT>
     </ELEMENTS>
    </OTGR>
   </asx:values>
